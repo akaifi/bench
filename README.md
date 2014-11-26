@@ -31,10 +31,10 @@ Manual Install
 Install pre-requisites,
 
 * Python 2.7
-* MariaDB
-* Redis
+* [MariaDB](https://downloads.mariadb.org/mariadb/repositories)
+* [Redis](http://redis.io/download)
 * [wkhtmltopdf](http://wkhtmltopdf.org/downloads.html) (optional, required for pdf generation)
-* Memcached
+* [Memcached](http://memcached.org/downloads)
 	
 Install bench as a *non root* user,
 
